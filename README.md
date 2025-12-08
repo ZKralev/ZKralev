@@ -52,11 +52,6 @@ I build scalable systems, optimize infrastructure, and automate workflows. My fo
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let's Connect
 I am open to contract work related to Backend migration and DevOps automation.
 * [LinkedIn](https://www.linkedin.com/in/zdravko-kralev-99131614a/)
